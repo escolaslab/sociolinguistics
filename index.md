@@ -28,3 +28,14 @@
     </div>
 </body>
 </html>
+
+<div id="about">
+    <h2>About Us</h2>
+    <p>Here’s a little more about the project.</p>
+</div>
+
+<div id="contact">
+    <h2>Contact</h2>
+    <p>Feel free to reach out to us!</p>
+</div>
+
